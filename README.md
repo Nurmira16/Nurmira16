@@ -1,13 +1,12 @@
-<h1 align="center">Hi 👋, I'm Nurmira</h1>
+
+<h1 align="center"><img width="50" src="https://media.giphy.com/media/jtDymzckfzexicE4hF/giphy.gif">Hi , I'm Nurmira<img width="50" src="https://media.giphy.com/media/jtDymzckfzexicE4hF/giphy.gif"></h1>
 <h3 align="center">A passionate frontend developer from Kyrgyzstan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nurmira16&label=Profile%20views&color=0e75b6&style=flat" alt="nurmira16" /> </p>
+🌱 I’m currently learning **React.js**
 
-- 🌱 I’m currently learning **React.js**
+📫 How to reach me **nurmirajorobek@gmail.com**
 
-- 📫 How to reach me **nurmirajorobek@gmail.com**
-
-- ⚡ Fun fact **I enjoy playing instruments, I speak 5 languages fluently**
+⚡ Fun fact **I enjoy playing instruments, I speak 5 languages fluently**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
