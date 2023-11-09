@@ -24,7 +24,6 @@
 
 📫 How to reach me **nurmirajorobek@gmail.com**
 
-⚡ Fun fact **I enjoy playing instruments, I speak 5 languages fluently**
 
  
 </p>
