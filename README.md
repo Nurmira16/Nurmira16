@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi , I'm Nurmira <img src="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="40"  alt="hi" /></h1>
 <div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg)
 
 </div> 
 
